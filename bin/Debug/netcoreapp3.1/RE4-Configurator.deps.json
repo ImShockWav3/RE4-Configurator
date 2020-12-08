@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RE4-Configurator/1.0.0": {
+        "runtime": {
+          "RE4-Configurator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RE4-Configurator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

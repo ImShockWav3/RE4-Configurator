@@ -1,0 +1,15 @@
+D:\João\Documentos\Projetos\RE4-Configurator\bin\Debug\netcoreapp3.1\RE4-Configurator.exe
+D:\João\Documentos\Projetos\RE4-Configurator\bin\Debug\netcoreapp3.1\RE4-Configurator.deps.json
+D:\João\Documentos\Projetos\RE4-Configurator\bin\Debug\netcoreapp3.1\RE4-Configurator.runtimeconfig.json
+D:\João\Documentos\Projetos\RE4-Configurator\bin\Debug\netcoreapp3.1\RE4-Configurator.runtimeconfig.dev.json
+D:\João\Documentos\Projetos\RE4-Configurator\bin\Debug\netcoreapp3.1\RE4-Configurator.dll
+D:\João\Documentos\Projetos\RE4-Configurator\bin\Debug\netcoreapp3.1\RE4-Configurator.pdb
+D:\João\Documentos\Projetos\RE4-Configurator\obj\Debug\netcoreapp3.1\RE4-Configurator.csprojAssemblyReference.cache
+D:\João\Documentos\Projetos\RE4-Configurator\obj\Debug\netcoreapp3.1\RE4_Configurator.Form1.resources
+D:\João\Documentos\Projetos\RE4-Configurator\obj\Debug\netcoreapp3.1\RE4-Configurator.csproj.GenerateResource.cache
+D:\João\Documentos\Projetos\RE4-Configurator\obj\Debug\netcoreapp3.1\RE4-Configurator.AssemblyInfoInputs.cache
+D:\João\Documentos\Projetos\RE4-Configurator\obj\Debug\netcoreapp3.1\RE4-Configurator.AssemblyInfo.cs
+D:\João\Documentos\Projetos\RE4-Configurator\obj\Debug\netcoreapp3.1\RE4-Configurator.csproj.CoreCompileInputs.cache
+D:\João\Documentos\Projetos\RE4-Configurator\obj\Debug\netcoreapp3.1\RE4-Configurator.dll
+D:\João\Documentos\Projetos\RE4-Configurator\obj\Debug\netcoreapp3.1\RE4-Configurator.pdb
+D:\João\Documentos\Projetos\RE4-Configurator\obj\Debug\netcoreapp3.1\RE4-Configurator.genruntimeconfig.cache
