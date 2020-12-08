@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\João\\Documentos\\Projetos\\RE4-Configurator\\RE4-Configurator.csproj",
+      "projectUniqueName": "C:\\Users\\nices\\Documents\\GitHub\\RE4-Configurator\\RE4-Configurator.csproj",
       "projectName": "RE4-Configurator",
-      "projectPath": "D:\\João\\Documentos\\Projetos\\RE4-Configurator\\RE4-Configurator.csproj",
+      "projectPath": "C:\\Users\\nices\\Documents\\GitHub\\RE4-Configurator\\RE4-Configurator.csproj",
       "packagesPath": "C:\\Users\\nices\\.nuget\\packages\\",
-      "outputPath": "D:\\João\\Documentos\\Projetos\\RE4-Configurator\\obj\\",
+      "outputPath": "C:\\Users\\nices\\Documents\\GitHub\\RE4-Configurator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nices\\AppData\\Roaming\\NuGet\\NuGet.Config",
